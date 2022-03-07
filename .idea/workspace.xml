@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f2c6cb-da77-4de8-9ea6-c133fdd06c7d" name="Changes" comment="" />
+    <list default="true" id="56f2c6cb-da77-4de8-9ea6-c133fdd06c7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aomsir/jewix/mapper/qwqw.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,6 +77,7 @@
       <updated>1646654319021</updated>
       <workItem from="1646654320384" duration="1031000" />
       <workItem from="1646655477840" duration="308000" />
+      <workItem from="1646655875842" duration="27000" />
     </task>
     <servers />
   </component>
